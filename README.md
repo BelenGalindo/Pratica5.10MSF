@@ -2,7 +2,7 @@
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
 Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Eritropoyesis; Estimación de parámetros; Modelo matemático; Simulaciones numéricas; Glóbulos rojos.
 
 ## Lista de archivos incluidos en el repositorio
 
