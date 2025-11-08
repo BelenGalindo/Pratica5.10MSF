@@ -11,12 +11,10 @@ authors:
     family-names: Galindo Ramirez
     email: l22211755@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/BelenGalindo/Practica5.3MSFA.git'
+repository-code: 'https://github.com/BelenGalindo/Pratica5.10MSF.git'
 keywords:
   - >-
-    Diagrama mecánico; Diagrama eléctrico; Sistema
-    Musculoesquelético; Controlador PI; Función de
-    Tranferencia
+    Eritropoyesis; Glóbulos rojos; Modelo matemático; Simulaciones numéricas; Estimación de parámetros;
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-30'
+date-released: '2025-11-07'
